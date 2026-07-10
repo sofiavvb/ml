@@ -1,0 +1,8 @@
+.venv
+venv
+**/venv
+**/.venv
+.DS_Store
+**/.vscode
+**/mc886_venv
+**/data
